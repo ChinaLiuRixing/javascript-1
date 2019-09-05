@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qunar-typescript-node",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/zhongzhi107/javascript#readme",
   "dependencies": {
-    "eslint-config-qunar-typescript-base": "*"
+    "eslint-config-qunar-typescript-base": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^6.3.0",

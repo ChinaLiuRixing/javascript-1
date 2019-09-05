@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qunar-base",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "dependencies": {
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-qunar": "^1.0.1"
+    "eslint-plugin-qunar": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^6.3.0"

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-qunar-typescript-base",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
-    "eslint-config-qunar-base": "^0.0.2"
+    "eslint-config-qunar-base": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^6.3.0",

@@ -2,8 +2,8 @@
 
 ## 其他规范
 
-1. [React](./docs/react)
-1. [TypeScript](./docs/typescript)
+1. [React](./docs/react.md)
+1. [TypeScript](./docs/typescript.md)
 
 <a name="table-of-contents"></a>
 ## 目录

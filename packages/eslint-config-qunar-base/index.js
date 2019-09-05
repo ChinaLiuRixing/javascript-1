@@ -20,7 +20,7 @@ module.exports = {
     'import/no-cycle': 'off',
     'import/no-extraneous-dependencies': 'off',
     // 不能在 import 语句中使用表达式，如 require(`../${name}`);
-    'import/no-dynamic-require': 'off'
+    'import/no-dynamic-require': 'off',
 
     // 强制 eslint-disable 后必须跟具体规则名称
     'qunar/no-abusive-eslint-disable': 'error',

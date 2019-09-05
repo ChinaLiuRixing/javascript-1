@@ -1,0 +1,13 @@
+{
+  "name": "remote-eslint",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "eslint --ext .ts,.js,.jsx --config .eslintrc.js --no-eslintrc --report-unused-disable-directives $1"
+  },
+  "dependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-qunar-typescript-node": "^1.0.0",
+    "eslint-plugin-qunar": "^1.0.1",
+    "typescript": "^3.6.2"
+  }
+}

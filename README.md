@@ -399,7 +399,7 @@
     const name = 'Capt. Janeway';
     ```
 
-  - [6.2](#6.2) <a name='6.2'></a> 字符串超过 80 个字节应该使用字符串连接号换行。
+  - [6.2](#6.2) <a name='6.2'></a> 字符串超过 100 个字节应该使用字符串连接号换行。
   - [6.3](#6.3) <a name='6.3'></a> 注：过度使用字串连接符号可能会对性能造成影响。[jsPerf](http://jsperf.com/ya-string-concat) 和 [讨论](https://github.com/airbnb/javascript/issues/40).
 
     ```javascript

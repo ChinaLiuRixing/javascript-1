@@ -1,5 +1,7 @@
 # eslint-config-qunar-base
 
+Qunar's ESLint config, following our styleguide.
+
 ## 安装
 ```
 npm i eslint-config-qunar-base

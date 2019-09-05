@@ -1,5 +1,7 @@
 # eslint-config-qunar-typescript-react
 
+Qunar's ESLint config, following our styleguide.
+
 ## 安装
 ```
 npm i eslint-config-qunar-typescript-react

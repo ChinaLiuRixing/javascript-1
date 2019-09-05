@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/zhongzhi107/javascript#readme",
   "dependencies": {
-    "babel-eslint": "^10.0.3"
+    "babel-eslint": "^10.0.3",
+    "eslint-config-qunar-base": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^6.3.0"
